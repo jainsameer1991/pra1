@@ -1,0 +1,7 @@
+This is how document is pushed.
+
+git push origin master
+
+origin is remote
+
+and master is branch whcih is to be pushed.
